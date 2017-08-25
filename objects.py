@@ -5,11 +5,13 @@ Here we have objects that we use
 def add_nums(x, y):
     '''
     Adds two numbers together
-    '''
+    
     :param x: a real number
-           y: a real number
+    
+    :param y: a real number
+           
     :returns: x+y
-    return x + y
+    '''
 
 class Dog:
     '''
